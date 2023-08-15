@@ -1,0 +1,20 @@
+How commit and push the code from Eclipse to GitHub?
+
+Create a git Repository 
+
+Eclipse=> Window>show view>other>git repository
+
+Copy URL > Clone a git reporitory >Next>next>Finish
+
+Local repository will be created 
+
+Move the code to local repository
+
+Select any project: Right click > Team > share project >Git >select Repository > finish
+
+? will be added in front on all elements in project
+
+Team > add to index
+Team > Commit - commint message "initial commit" > click Commit and PUSH
+
+Next > Finish
